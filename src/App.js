@@ -10,11 +10,9 @@ function App() {
   return (
     <div style={{ backgroundImage: `url(${bgImage})` }}>
       <Navigation></Navigation>
-      <main>
-        <About></About>
-        <Contact></Contact>
-        <Footer></Footer>
-      </main>
+      <About></About>
+      <Contact></Contact>
+      <Footer></Footer>
     </div>
   );
 }
