@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <section class="my-5">
+    <section class="my-5" >
       <h1 id="about" class="text-white">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Odio euismod lacinia
