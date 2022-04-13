@@ -14,11 +14,11 @@ function Footer() {
       <Navbar bg="dark" variant="dark">
         <Container className="d-flex justify-content-center">
           <NavbarBrand>
-            <a href="https://www.facebook.com/james.b.mahoney/" class="highlight"><FaFacebook /></a>
-            <a href="https://www.instagram.com/jamesbmahoney/" class="highlight"><FaInstagram /></a> 
-            <a href="https://www.linkedin.com/in/jamesbarrymahoney" class="highlight"><FaLinkedin  /></a>
-            <a href="https://www.twitch.tv/nomorerandombattles" class="highlight"><FaTwitch /></a>
-            <a href="https://github.com/Jamesbmahoney" class="highlight"><FaGithub /></a>
+            <a href="https://www.facebook.com/james.b.mahoney/" class="highlight" target="_blank" rel="noreferrer"><FaFacebook /></a>
+            <a href="https://www.instagram.com/jamesbmahoney/" class="highlight" target="_blank" rel="noreferrer"><FaInstagram /></a> 
+            <a href="https://www.linkedin.com/in/jamesbarrymahoney" class="highlight" target="_blank" rel="noreferrer"><FaLinkedin  /></a>
+            <a href="https://www.twitch.tv/nomorerandombattles" class="highlight" target="_blank" rel="noreferrer"><FaTwitch /></a>
+            <a href="https://github.com/Jamesbmahoney" class="highlight" target="_blank" rel="noreferrer"><FaGithub /></a>
             </NavbarBrand>          
         </Container>
       </Navbar>
