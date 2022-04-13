@@ -9,14 +9,13 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div style={{ backgroundImage: `url(${bgImage})` }} className="" >
-      <Navigation ></Navigation>
-      <div>
+    <div>
+      <Navigation ></Navigation>      
+      <div style={{ backgroundImage: `url(${bgImage})` }}>
       <About></About>
-      <Contact></Contact>
-      </div>            
-      <Footer></Footer>
-            
+      <Contact></Contact>                
+      <Footer></Footer> 
+      </div>           
     </div>
   );
 }

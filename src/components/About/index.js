@@ -2,19 +2,16 @@ import React from "react";
 
 function About() {
   return (
-    <section class="my-5" >
+    <section>
       <h1 id="about" class="text-white">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Odio euismod lacinia
-        at quis risus sed vulputate. Mattis enim ut tellus elementum sagittis
-        vitae et. Convallis aenean et tortor at risus viverra adipiscing at. Et
-        ultrices neque ornare aenean euismod. Venenatis lectus magna fringilla
-        urna porttitor rhoncus. Tristique senectus et netus et malesuada fames
-        ac turpis egestas. Mus mauris vitae ultricies leo integer malesuada.
-        Tellus molestie nunc non blandit massa. Ut pharetra sit amet aliquam.
-        Morbi enim nunc faucibus a pellentesque sit amet. Volutpat commodo sed
-        egestas egestas fringilla phasellus faucibus. Eleifend quam adipiscing
-        vitae proin sagittis.
+        Welcome to my portfolio page! My name is James Mahoney, I am a content
+        creator who loves old school RPGs, and would love to work on creating on
+        as a passion project one day. I am an aspiring software developer,
+        always looking to learn new things and hone my skills as I go along.
+        Below is a sampling of works I have completed, so you can see the range
+        of my development skills. If you have any further questions or would
+        like to see a resume, please fill out the information in the "Contact Me" 
+        section of this page. I look forward to hearing from you!
       </h1>
     </section>
   );

@@ -14,11 +14,11 @@ function Navigation(props) {
   } = props;
 
   return(    
-  <Navbar bg="dark" variant="dark" className="py-0 fixed-top">
-    <img src={selfImage} style={{ width: "3%" }} alt="goofy smile" className="me-3"></img>            
-    <Navbar.Brand href="#home">James Mahoney</Navbar.Brand>
+  <Navbar bg="dark" variant="" className="fixed-top position-sticky">
+    <img src={selfImage} style={{ width: "4%" }} alt="goofy smile" className="me-3 d-flex justify-content-start"></img>            
+    <Navbar.Brand className="d-flex justify-content-start"  href="#home">James Mahoney</Navbar.Brand>
     <Container></Container>
-    <Nav className="me-auto">
+    <Nav className="d-flex justify-content-end">
       <Nav.Link  data-testid="aboutme" href="#aboutme" onClick={() => setContactSelected(false)}>About Me</Nav.Link>
       <Nav.Link href="#projects">Projects</Nav.Link>
       <Nav.Link href="#contactinfo">Contact</Nav.Link>
