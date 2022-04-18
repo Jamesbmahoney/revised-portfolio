@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import techPic from "../../assets/images/Technology-003.jpg";
 import { validateEmail } from "../../utils/helpers";
 
 function ContactForm() {
@@ -37,7 +38,7 @@ function ContactForm() {
   };
 
   return (
-    <section className="text-white bg-dark" >
+    <section className="text-white bg-dark" style={{ backgroundImage: `url(${techPic})` }} >
       <h1 className="d-flex justify-content-center" data-testid="h1tag">Contact me</h1>
       <form id="contact" onSubmit={handleSubmit}>
         <div className="d-flex justify-content-center">

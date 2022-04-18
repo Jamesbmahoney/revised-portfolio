@@ -9,9 +9,9 @@ import { Container, Card } from "react-bootstrap";
 
 function Portfolio() {
   return (
-    <section id="portfolio" className="text-white bg-dark">
+    <section id="portfolio" className="text-white bg-dark" >
       <h2 class="text-center">Portfolio</h2>
-      <Container fluid>
+      <Container fluid >
         <Card style={{ backgroundImage: `url(${bgImage})` }}>
           <div>
             <a
