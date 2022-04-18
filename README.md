@@ -9,7 +9,7 @@ A rebuilt portfolio using React/Bootstrap
 * Bootstrap
 
 ## Image
-<img src="./assets/images/screenshot.JPG" />
+<img src="src/assets/images/screenshot.JPG" />
 
 ##  Website
 https://jamesbmahoney.github.io/james-portfolio
