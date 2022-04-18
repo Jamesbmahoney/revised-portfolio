@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/revised-portfolio/static/css/main.c290b169.css",
+    "main.js": "/revised-portfolio/static/js/main.243d5d62.js",
+    "static/js/787.38e6133a.chunk.js": "/revised-portfolio/static/js/787.38e6133a.chunk.js",
+    "static/media/tech_bg.png": "/revised-portfolio/static/media/tech_bg.1ab48ed5e312fb9aadde.png",
+    "static/media/Technology-003.jpg": "/revised-portfolio/static/media/Technology-003.6b0ed9cc521e63b07238.jpg",
+    "static/media/fride-raider-splash.JPG": "/revised-portfolio/static/media/fride-raider-splash.e38bdfd5d6e77ce158d3.JPG",
+    "static/media/xyz_rentals.jpg": "/revised-portfolio/static/media/xyz_rentals.f00a634aece36820e35f.jpg",
+    "static/media/NMRB.JPG": "/revised-portfolio/static/media/NMRB.99d44e1807b34c7762e6.JPG",
+    "static/media/tech_banner.jpg": "/revised-portfolio/static/media/tech_banner.aabdad452b4c099b91c7.jpg",
+    "static/media/run-buddy-splash.jpg": "/revised-portfolio/static/media/run-buddy-splash.30d7862a912bfb1a7737.jpg",
+    "static/media/horiseon-splash.jpg": "/revised-portfolio/static/media/horiseon-splash.60b4479bdfe658743e8a.jpg",
+    "index.html": "/revised-portfolio/index.html",
+    "main.c290b169.css.map": "/revised-portfolio/static/css/main.c290b169.css.map",
+    "main.243d5d62.js.map": "/revised-portfolio/static/js/main.243d5d62.js.map",
+    "787.38e6133a.chunk.js.map": "/revised-portfolio/static/js/787.38e6133a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c290b169.css",
+    "static/js/main.243d5d62.js"
+  ]
+}
